@@ -4,7 +4,7 @@ import threading
 
 from telebot import types
 
-bot = telebot.TeleBot('6538226896:AAEYiZJ5b2BWOelXPENo4I4h2Hsq3tCqZuo')
+bot = telebot.TeleBot('')
 
 # Кеш для хранения уже вычисленных факториалов
 # factorial_cache = {}
